@@ -1,5 +1,7 @@
 # GitLab_Analyser
 
+The first prototype supports analyzing the development process of GitLab projects. It illustrates the activities of an agile management process with GitLab features as well as the usage of Git and the GitLab Wiki. Through an entire project and individual user analysis, the tool provides insights into the entire development process and the activities of all involved users. The analysis results are presented in clear dashboard views. The tool thus enables an easy introduction to process analysis and also creates so-called event logs for a more extensive and detailed process analysis.
+
 ###################### 1. Requirements ######################
 
 - Git must be installed. Information on how this can be done can be found here:
